@@ -1,0 +1,64 @@
+{
+    "title": "MRI and unbiased averages of wild muskrats (Ondatra zibethicus) and red squirrels (Tamiasciurus hudsonicus)",
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.3687253",
+        "identifierSource": "DOI"
+    },
+    "creators": [
+        {
+            "name": "Devenyi, Gabriel Allan"
+        }
+    ],
+    "description": "<p>Preprocessed data from:</p>\n\n<p>Amuno, S., Rudko, D.A., Gallino, D., Tuznik, M., Shekh, K., Kodzhahinchev, V., Niyogi, S., Chakravarty, M.M., Devenyi, G.A., 2020. Altered neurotransmission and neuroimaging biomarkers of chronic arsenic poisoning in wild muskrats (Ondatra zibethicus) and red squirrels (Tamiasciurus hudsonicus) breeding near the City of Yellowknife, Northwest Territories (Canada). Sci. Total Environ. 707, 135556. https://doi.org/10.1016/j.scitotenv.2019.135556</p>\n\n<p>&nbsp;</p>\n\n<p>As well as averages and brain masks generated during DBM processing. Files in both MINC2 and NIFTI format.</p>",
+    "version": "1.0",
+    "licenses": [
+        {
+            "name": "CC-BY-4.0"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "zip"
+            ],
+            "size": 1034370321,
+            "unit": {
+                "value": "B"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/3687254"
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "MRI"
+        },
+        {
+            "value": "imaging"
+        }
+    ]
+}
